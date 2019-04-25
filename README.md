@@ -29,7 +29,7 @@ Similarly, this is not a modpack that introduces a lot of new blocks and tutoria
 
 ## Features
 ### Recipes
-![Saddle](/images/saddle.png)  
+![Saddle](/images/crafting/saddle.png)  
 ![Enchanted Golden Apple](/images/crafting/enchanted_golden_apple.png)  
 ![Iron Horse Armor](/images/crafting/iron_horse_armor.png)  
 ![Golden Horse Armor](/images/crafting/golden_horse_armor.png)  
@@ -42,5 +42,6 @@ Similarly, this is not a modpack that introduces a lot of new blocks and tutoria
 ### Loot
 - Elytra & Dragon Head drops from Ender Dragon
 - Mine Spawners with Silk Touch
+### Gameplay
 - Drop from The End into the Overworld
 - Armor Stands with arms
