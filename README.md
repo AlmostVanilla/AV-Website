@@ -30,13 +30,13 @@ Similarly, this is not a modpack that introduces a lot of new blocks and tutoria
 ## Features
 ### Recipes
 ![Saddle](/images/saddle.png)  
-![Enchanted Golden Apple](/images/enchanted_golden_apple.png)  
-![Iron Horse Armor](/images/iron_horse_armor.png)  
-![Golden Horse Armor](/images/golden_horse_armor.png)  
-![Diamond Horse Armor](/images/diamond_horse_armor.png)  
-![Trident](/images/trident.png)  
-![Bell](/images/bell.png)  
-![Name Tag](/images/name_tag.png)  
+![Enchanted Golden Apple](/images/crafting/enchanted_golden_apple.png)  
+![Iron Horse Armor](/images/crafting/iron_horse_armor.png)  
+![Golden Horse Armor](/images/crafting/golden_horse_armor.png)  
+![Diamond Horse Armor](/images/crafting/diamond_horse_armor.png)  
+![Trident](/images/crafting/trident.png)  
+![Bell](/images/crafting/bell.png)  
+![Name Tag](/images/crafting/name_tag.png)  
 
 ## Planned Features
 ### Loot
