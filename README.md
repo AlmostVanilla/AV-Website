@@ -28,10 +28,19 @@ Players don't need to know any commands to play regular vanilla survival minecra
 Similarly, this is not a modpack that introduces a lot of new blocks and tutorials; the features in AlmostVanilla should not be more-complicated than the regular features in vanilla.
 
 ## Features
-### Advancements
 ### Recipes
-### Mobs
-
+![Saddle](/images/saddle.png)  
+![Enchanted Golden Apple](/images/enchanted_golden_apple.png)  
+![Iron Horse Armor](/images/iron_horse_armor.png)  
+![Golden Horse Armor](/images/golden_horse_armor.png)  
+![Diamond Horse Armor](/images/diamond_horse_armor.png)  
+![Trident](/images/trident.png)  
+![Bell](/images/bell.png)  
+![Name Tag](/images/name_tag.png)  
 
 ## Planned Features
-
+### Loot
+- Elytra & Dragon Head drops from Ender Dragon
+- Mine Spawners with Silk Touch
+- Drop from The End into the Overworld
+- Armor Stands with arms
