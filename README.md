@@ -27,21 +27,15 @@ Players don't need to know any commands to play regular vanilla survival minecra
 #### **Add complex systems for players to learn**
 Similarly, this is not a modpack that introduces a lot of new blocks and tutorials; the features in AlmostVanilla should not be more-complicated than the regular features in vanilla.
 
-## Features
-### Recipes
-![Saddle](/images/crafting/saddle.png)  
-![Enchanted Golden Apple](/images/crafting/enchanted_golden_apple.png)  
-![Iron Horse Armor](/images/crafting/iron_horse_armor.png)  
-![Golden Horse Armor](/images/crafting/golden_horse_armor.png)  
-![Diamond Horse Armor](/images/crafting/diamond_horse_armor.png)  
-![Trident](/images/crafting/trident.png)  
-![Bell](/images/crafting/bell.png)  
-![Name Tag](/images/crafting/name_tag.png)  
+## Packs
+### [Loot Recipes](/LootRecipes) (provide recipes for crafting dungeon loot)
+### [Score Display](/ScoreDisplay) (show health and levels to other players)
+### [Silk Touch Spawners](/SilktouchSpawners) (pick up spawners with silk touch)
 
 ## Planned Features
 ### Loot
-- Elytra & Dragon Head drops from Ender Dragon
-- Mine Spawners with Silk Touch
+- Elytra & Dragon Head drops from Ender Dragon  
+
 ### Gameplay
-- Drop from The End into the Overworld
+- Drop from The End into the Overworld  
 - Armor Stands with arms
