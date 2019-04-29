@@ -6,7 +6,8 @@ AlmostVanilla strives to preserve the core gameplay elements of Vanilla Survival
 ### [Loot Recipes](/LootRecipes) (provide recipes for crafting dungeon loot)
 ### [Score Display](/ScoreDisplay) (show health and levels to other players)
 ### [Silk Touch Spawners](/SilktouchSpawners) (pick up spawners with silk touch)
-### [Death Location](/DeathLocation) (tell dimension & coordinates of death location)
+### [Death Location](/DeathLocation) (tell coords of death location)
+### [Mob Drops](/MobDrops) (adjusted mob loot tables)
 
 
 ## Goals
@@ -37,10 +38,11 @@ Similarly, this is not a modpack that introduces a lot of new blocks and tutoria
 
 
 ## Planned Features
-### Loot
-- Elytra & Dragon Head drops from Ender Dragon  
-
+### Multiplayer
+- Easier coordinate sharing  
+- Improvements to sleep system  
 ### Gameplay
 - Drop from The End into the Overworld  
 - Armor Stands with arms  
-- Easier coordinate sharing  
+### Items
+- Alternative method for obtaining shulker shells  
