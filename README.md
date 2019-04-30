@@ -41,8 +41,10 @@ Similarly, this is not a modpack that introduces a lot of new blocks and tutoria
 ### Multiplayer
 - Easier coordinate sharing  
 - Improvements to sleep system  
+
 ### Gameplay
 - Drop from The End into the Overworld  
 - Armor Stands with arms  
+
 ### Items
 - Alternative method for obtaining shulker shells  
