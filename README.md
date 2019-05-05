@@ -9,6 +9,7 @@ AlmostVanilla strives to preserve the core gameplay elements of Vanilla Survival
 ### [Death Location](/DeathLocation) (tell coords of death location)
 ### [Mob Drops](/MobDrops) (adjusted mob loot tables)
 ### [Ender XP Storage](/EnderXPStorage) (players can store XP in Ender Chests)
+### [Leather Smelting](/LeatherSmelting) (smelt leather armor into rabbit hide)
 
 
 ## Goals
