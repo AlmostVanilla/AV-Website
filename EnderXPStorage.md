@@ -13,7 +13,8 @@ Players can store XP by standing on an Ender Chest and looking straight down. XP
 ### Retrieving XP
 Players can retrieve XP by standing on an Ender Chest and looking straight up.
 
-### Experience Chart
+### Experience Chart  
+  
 | Level | Total XP | XP from last level |
 |-------|----------|--------------------|
 | 1     | 7        | 7                  |
