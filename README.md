@@ -10,6 +10,7 @@ AlmostVanilla strives to preserve the core gameplay elements of Vanilla Survival
 ### [Mob Drops](/MobDrops) (adjusted mob loot tables)
 ### [Ender XP Storage](/EnderXPStorage) (players can store XP in Ender Chests)
 ### [Leather Smelting](/LeatherSmelting) (smelt leather armor into rabbit hide)
+### [Insomnia](/Insomnia) (allow players to opt-out of sleep)
 
 
 ## Goals
@@ -42,7 +43,6 @@ Similarly, this is not a modpack that introduces a lot of new blocks and tutoria
 ## Planned Features
 ### Multiplayer
 - Easier coordinate sharing  
-- Improvements to sleep system  
 
 ### Gameplay
 - Drop from The End into the Overworld  
@@ -52,3 +52,4 @@ Similarly, this is not a modpack that introduces a lot of new blocks and tutoria
 - Alternative method for obtaining shulker shells  
 - More totems  
 - Horse whistle  
+- Turrets  
