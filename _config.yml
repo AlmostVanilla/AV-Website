@@ -1,6 +1,10 @@
+title: AlmostVanilla
+description: Minecraft Data Packs and Resource Packs that preserve the core gameplay elements of Vanilla Survival
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
 search_enabled: true
 aux_links:
     "AlmostVanilla Data Packs":
       - "https://github.com/AlmostVanilla/AV-DataPacks"
+    "AlmostVanilla Resource Pack":
+      - "https://github.com/AlmostVanilla/AV-ResourcePack"
