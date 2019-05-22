@@ -1,2 +1,6 @@
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
+search_enabled: true
+aux_links:
+    "AlmostVanilla Data Packs":
+      - "https://github.com/AlmostVanilla/AV-DataPacks"
