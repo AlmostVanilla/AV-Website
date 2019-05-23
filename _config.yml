@@ -3,6 +3,8 @@ description: Minecraft Data Packs and Resource Packs that preserve the core game
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
 search_enabled: true
+url: "https://av.jagrosh.com"
+baseurl: ""
 aux_links:
     "AlmostVanilla Data Packs":
       - "https://github.com/AlmostVanilla/AV-DataPacks"
