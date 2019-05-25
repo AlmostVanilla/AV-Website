@@ -22,9 +22,9 @@ As more players spend more time on a server, loot (from temples, one-time-spawn 
 There are a lot of features that exist in minecraft without any way of using them in survival. AlmostVanilla aims to bring these features into survival in an intuitive and fair way.
 
 #### **Include 'wait I thought that was already part of the game'-style features**
-> Wait, can't you mine a mob spawner with silk touch?  
-> I thought that the dragon dropped a dragon head when it died.  
-> Oh, you can't craft saddles?  
+> Wait, can't you mine a mob spawner with silk touch?
+> I thought that the dragon dropped a dragon head when it died.
+> Oh, you can't craft saddles?
 
 These are some of the kinds of things AlmostVanilla aims to bring into the game; things that make sense to many players and yet just aren't a part of vanilla survival.
 
@@ -42,14 +42,14 @@ Similarly, this is not a modpack that introduces a lot of new blocks and tutoria
 
 ## Planned Features
 ### Multiplayer
-- Easier coordinate sharing  
+- Easier coordinate sharing
 
 ### Gameplay
-- Drop from The End into the Overworld  
-- Armor Stands with arms  
+- Armor Stands with arms
 
 ### Items
-- Alternative method for obtaining shulker shells  
-- More totems  
-- Horse whistle  
-- Turrets  
+- Alternative method for obtaining shulker shells
+- More totems
+- Horse whistle
+- Turrets
+- Way to obtain player heads
