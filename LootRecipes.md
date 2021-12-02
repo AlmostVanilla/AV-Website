@@ -3,7 +3,7 @@ This data pack adds recipes for items that are normally only obtainable from loo
 
 ### Recipes
 Bundle  
-!{Bundle](/images/crafting/bundle.png)  
+![Bundle](/images/crafting/bundle.png)  
 Saddle  
 ![Saddle](/images/crafting/saddle.png)  
 Enchanted Golden Apple  
