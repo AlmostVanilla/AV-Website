@@ -2,6 +2,8 @@
 This data pack adds recipes for items that are normally only obtainable from looting dungeons or other generated structures. This pack is intended to allow new players to obtain these kinds of items without having to explore vast distances (due to existing dungeons already being looted).
 
 ### Recipes
+Bundle  
+!{Bundle](/images/crafting/bundle.png)  
 Saddle  
 ![Saddle](/images/crafting/saddle.png)  
 Enchanted Golden Apple  
